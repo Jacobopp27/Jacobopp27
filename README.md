@@ -56,8 +56,10 @@ AI system that discovers leads, analyzes companies, and automates outreach workf
 
 ## 🌎 Connect With Me
 
-💼 LinkedIn  https://www.linkedin.com/in/jacobo-posada27
-🌐 Portfolio  https://jacoboposada.com
+💼 LinkedIn: https://www.linkedin.com/in/jacobo-posada27
+
+🌐 Portfolio: https://jacoboposada.com
+
 📫 Open to collaborations and interesting AI projects  
 
 ---
